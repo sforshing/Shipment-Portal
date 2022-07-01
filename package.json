@@ -1,0 +1,22 @@
+{
+  "name": "dlchan88",
+  "version": "1.0.0",
+  "description": "- NodeJs\r - MongoDB (Atlas - for local database)\r - nodemon (npm i -g nodemon)\r - Postman (for checking API endpoints)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd shipment-portal-server && nodemon app.js",
+    "app": "cd shipment-portal && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketFiverr/shipment-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniketFiverr/shipment-portal/issues"
+  },
+  "homepage": "https://github.com/AniketFiverr/shipment-portal#readme"
+}
